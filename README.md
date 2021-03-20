@@ -18,6 +18,10 @@ Today I Learnt in projects
 
 * [ANZ code challenge task 1 - Spin-up and installation of a single-machine n-tier architecture.](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge1.md) - 2021-03-20
 * [Operation and automation in challenge 2](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge2.md) - 2021-03-20
+
+## CICD
+
+* [act - run action locally](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/CICD/act.md) - 2021-03-20
 <!-- index ends -->
 
 
