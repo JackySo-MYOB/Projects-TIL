@@ -40,7 +40,7 @@ def build_database(repo_path):
         title = fp.readline().lstrip("#").strip()
         body = fp.read().strip()
         path = str(filepath.relative_to(root))
-        url = "https://github.com/JackySo-MYOB/project-TIL/blob/main/{}".format(path)
+        url = "https://github.com/JackySo-MYOB/Projects-TIL/blob/main/{}".format(path)
         record = {
             "path": path.replace("/", "_"),
             "topic": path.split("/")[0],
