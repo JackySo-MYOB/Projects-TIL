@@ -57,7 +57,7 @@ ifeq ("$(Pre-Commit)","true")
 	@curl \
                 -o Makefile.fetched \
                 -sL "https://raw.githubusercontent.com/JackySo-MYOB/IaC-core/main/Makefile-devops-venv"
-	@echo "17fadcd385fd146c88f9f238e292087b12be0eb4c0484e518167e5d8a9c9d1c2 *Makefile.fetched" \
+	@echo "9e91e11a74eece877ccd18cf52f7270fb2f1deedb5d413219013106a18eb5662 *Makefile.fetched" \
                 | sha256sum --quiet --check - \
                 && mv Makefile.fetched $@
 	@$(MAKE) -f $@ pre-commit
@@ -65,7 +65,7 @@ else
 	@curl \
                 -o Makefile.fetched \
                 -sL "https://raw.githubusercontent.com/JackySo-MYOB/IaC-core/main/Makefile-devops-venv"
-	@echo "17fadcd385fd146c88f9f238e292087b12be0eb4c0484e518167e5d8a9c9d1c2 *Makefile.fetched" \
+	@echo "9e91e11a74eece877ccd18cf52f7270fb2f1deedb5d413219013106a18eb5662 *Makefile.fetched" \
                 | sha256sum --quiet --check - \
                 && mv Makefile.fetched $@
 endif
