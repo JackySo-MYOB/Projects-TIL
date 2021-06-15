@@ -18,10 +18,10 @@ Today I Learnt in projects
 
 * [ANZ code challenge task 1 - Spin-up and installation of a single-machine n-tier architecture.](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge1.md) - 2021-03-20
 * [Operation and automation in challenge 2](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge2.md) - 2021-03-20
-* [Challenge2 Sub-task4 and validation](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge-2-subtask-4.md) - 2021-03-20
-* [Challenge2 Sub-task2 and validation](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge-2-subtask-2.md) - 2021-03-20
-* [Challenge2 Sub-task1 and validation](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge-2-subtask-1.md) - 2021-03-20
 * [Challenge2 Sub-task3 and validation](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge-2-subtask-3.md) - 2021-03-20
+* [Challenge2 Sub-task1 and validation](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge-2-subtask-1.md) - 2021-03-20
+* [Challenge2 Sub-task2 and validation](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge-2-subtask-2.md) - 2021-03-20
+* [Challenge2 Sub-task4 and validation](https://github.com/JackySo-MYOB/Projects-TIL/blob/main/Challenges/challenge-2-subtask-4.md) - 2021-03-20
 
 ## CICD
 
