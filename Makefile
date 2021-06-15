@@ -33,6 +33,14 @@ else
 	@act -l
 endif
 
+github-action-cli: ## Check present and install action-cli
+ifeq (, $(shell which actions-cli))
+	@echo "No actions-cli installed in $(PATH), installing it...."
+	@sudo npm install -g actions-cli && actions-cli login || true
+else
+	@actions-cli login || true
+endif
+
 dry-run-action: ## Dry-run action
 	@act -n
 
